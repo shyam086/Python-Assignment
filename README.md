@@ -94,9 +94,3 @@ o   Sine of the number (in radians)
  Expected Output:
  For example, if the user enters 25, the output should be:
  
-Submission Instructions:
-Create a GitHub repository and upload your Python scripts (.py files).
-Ensure the repository includes a README.md file that describes the functionality of your programs.
-Add both Task 1 and Task 2 scripts in the same repository.
-Submit the link to your GitHub repository once uploaded.
-
