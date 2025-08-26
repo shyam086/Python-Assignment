@@ -5,4 +5,3 @@ counter = 1
 while counter <= 5:
     print("python")
     counter += 1
-    

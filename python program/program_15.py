@@ -6,3 +6,5 @@ l = ['shyam', 8 , 6 , 2004 ]
 
 for i in l:
     print (i)
+    
+    print
