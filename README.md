@@ -76,12 +76,6 @@ For example, if the function is called with 5, it should return:
 
 
 
-
-
-
-
-
-
 Task 2: Using the Math Module for Calculations
  
 Problem Statement: Write a Python program that:
@@ -106,16 +100,13 @@ Problem Statement:  Write a Python program that:
 3.   Handles errors gracefully if the file does not exist.
 
 Expected Output:
-
 If the file exists:
-
 Reading file content:
 
 Line 1: This is a sample text file.
 Line 2: It contains multiple lines.
 
 If the file does not exist:
-
 Error: The file 'sample.txt' was not found.
 
 Task 2: Write and Append Data to a File
@@ -127,7 +118,7 @@ Problem Statement: Write a Python program that:
  
 
 Expected Output:
- For example, if the user enters 25, the output should be:
+For example, if the user enters 25, the output should be:
 
 Enter text to write to the file: Hello, Python!
 Data successfully written to output.txt.
